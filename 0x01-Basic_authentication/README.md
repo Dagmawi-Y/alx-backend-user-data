@@ -1,1 +1,1 @@
-## User Auth implementations in Python
+## Basic User Auth implementations in Python
